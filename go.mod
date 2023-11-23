@@ -58,9 +58,9 @@ require (
 	github.com/projectcalico/api v0.0.0-00010101000000-000000000000
 	github.com/projectcalico/go-json v0.0.0-20161128004156-6219dc7339ba
 	github.com/projectcalico/go-yaml-wrapper v0.0.0-20191112210931-090425220c54
-	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.4.0
-	github.com/prometheus/common v0.44.0
+	github.com/prometheus/client_golang v1.17.0
+	github.com/prometheus/client_model v0.4.1-0.20230718164431-9a2bf3000d16
+	github.com/prometheus/common v0.45.0
 	github.com/rakelkar/gonetsh v0.3.2
 	github.com/safchain/ethtool v0.0.0-20210803160452-9aa261dae9b1
 	github.com/satori/go.uuid v1.2.0
@@ -204,7 +204,7 @@ require (
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/mattn/go-zglob v0.0.2-0.20190814121620-e3c945676326 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
+	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/mdlayher/genetlink v1.0.0 // indirect
 	github.com/mdlayher/netlink v1.1.0 // indirect
 	github.com/mistifyio/go-zfs v2.1.2-0.20190413222219-f784269be439+incompatible // indirect
@@ -227,7 +227,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/pquerna/otp v1.2.0 // indirect
-	github.com/prometheus/procfs v0.10.1 // indirect
+	github.com/prometheus/procfs v0.11.1 // indirect
 	github.com/rubiojr/go-vhd v0.0.0-20200706105327-02e210299021 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sagikazarmark/locafero v0.3.0 // indirect
