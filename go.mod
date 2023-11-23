@@ -13,7 +13,7 @@ require (
 	github.com/aws/smithy-go v1.14.2
 	github.com/buger/jsonparser v1.1.1
 	github.com/container-storage-interface/spec v1.8.0
-	github.com/containernetworking/cni v1.1.1
+	github.com/containernetworking/cni v1.1.2
 	github.com/containernetworking/plugins v1.1.1
 	github.com/coreos/go-semver v0.3.1
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
