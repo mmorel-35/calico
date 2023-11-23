@@ -62,7 +62,7 @@ require (
 	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.44.0
 	github.com/rakelkar/gonetsh v0.3.2
-	github.com/safchain/ethtool v0.0.0-20210803160452-9aa261dae9b1
+	github.com/safchain/ethtool v0.3.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/shirou/gopsutil v0.0.0-20190323131628-2cbc9195c892
 	github.com/sirupsen/logrus v1.9.0
