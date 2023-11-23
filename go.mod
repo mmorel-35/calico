@@ -13,8 +13,8 @@ require (
 	github.com/aws/smithy-go v1.14.2
 	github.com/buger/jsonparser v1.1.1
 	github.com/container-storage-interface/spec v1.8.0
-	github.com/containernetworking/cni v1.1.1
-	github.com/containernetworking/plugins v1.1.1
+	github.com/containernetworking/cni v1.1.2
+	github.com/containernetworking/plugins v1.3.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
@@ -62,7 +62,7 @@ require (
 	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.44.0
 	github.com/rakelkar/gonetsh v0.3.2
-	github.com/safchain/ethtool v0.0.0-20210803160452-9aa261dae9b1
+	github.com/safchain/ethtool v0.3.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/shirou/gopsutil v0.0.0-20190323131628-2cbc9195c892
 	github.com/sirupsen/logrus v1.9.0
@@ -122,7 +122,7 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/StackExchange/wmi v0.0.0-20181212234831-e0a55b97c705 // indirect
 	github.com/alessio/shellescape v1.4.1 // indirect
-	github.com/alexflint/go-filemutex v1.1.0 // indirect
+	github.com/alexflint/go-filemutex v1.2.0 // indirect
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10 // indirect
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e // indirect
 	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a // indirect
@@ -148,7 +148,7 @@ require (
 	github.com/containerd/containerd v1.6.23 // indirect
 	github.com/containerd/ttrpc v1.1.2 // indirect
 	github.com/coreos/go-iptables v0.6.0 // indirect
-	github.com/coreos/go-systemd/v22 v22.4.0 // indirect
+	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
@@ -172,7 +172,7 @@ require (
 	github.com/go-playground/universal-translator v0.0.0-20170327191703-71201497bace // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
-	github.com/godbus/dbus/v5 v5.0.6 // indirect
+	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
@@ -181,7 +181,7 @@ require (
 	github.com/google/cel-go v0.12.7 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
-	github.com/google/pprof v0.0.0-20211214055906-6f57359322fd // indirect
+	github.com/google/pprof v0.0.0-20230323073829-e72429f035bd // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.1 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.0 // indirect
@@ -222,7 +222,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/runc v1.1.6 // indirect
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220909204839-494a5a6aca78 // indirect
-	github.com/opencontainers/selinux v1.10.1 // indirect
+	github.com/opencontainers/selinux v1.11.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
@@ -242,7 +242,7 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
 	github.com/urfave/cli v1.22.4 // indirect
-	github.com/vishvananda/netns v0.0.2 // indirect
+	github.com/vishvananda/netns v0.0.4 // indirect
 	github.com/vmware/govmomi v0.30.6 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/github.com/emicklei/go-restful/otelrestful v0.46.0 // indirect
