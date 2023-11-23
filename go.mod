@@ -59,7 +59,7 @@ require (
 	github.com/projectcalico/go-json v0.0.0-20161128004156-6219dc7339ba
 	github.com/projectcalico/go-yaml-wrapper v0.0.0-20191112210931-090425220c54
 	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.4.0
+	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.44.0
 	github.com/rakelkar/gonetsh v0.3.2
 	github.com/safchain/ethtool v0.0.0-20210803160452-9aa261dae9b1
