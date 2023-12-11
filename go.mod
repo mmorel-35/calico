@@ -32,7 +32,7 @@ require (
 	github.com/google/netstack v0.0.0-20191123085552-55fcc16cd0eb
 	github.com/google/safetext v0.0.0-20230106111101-7156a760e523
 	github.com/google/uuid v1.3.1
-	github.com/gruntwork-io/terratest v0.41.24
+	github.com/gruntwork-io/terratest v0.46.8
 	github.com/ishidawataru/sctp v0.0.0-20230406120618-7ff4192f6ff2
 	github.com/joho/godotenv v1.5.1
 	github.com/json-iterator/go v1.1.12
@@ -87,17 +87,17 @@ require (
 	gopkg.in/go-playground/validator.v9 v9.30.2
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.27.8
+	k8s.io/api v0.28.4
 	k8s.io/apiextensions-apiserver v0.27.8
-	k8s.io/apimachinery v0.27.8
+	k8s.io/apimachinery v0.28.4
 	k8s.io/apiserver v0.27.8
-	k8s.io/client-go v0.27.8
+	k8s.io/client-go v0.28.4
 	k8s.io/code-generator v0.27.8
 	k8s.io/component-base v0.27.8
-	k8s.io/klog/v2 v2.90.1
-	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f
+	k8s.io/klog/v2 v2.100.1
+	k8s.io/kube-openapi v0.0.0-20230717233707-2695361300d9
 	k8s.io/kubernetes v1.27.8
-	k8s.io/utils v0.0.0-20230313181309-38a27ef9d749
+	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
 	modernc.org/memory v1.7.1
 	sigs.k8s.io/kind v0.20.0
 	sigs.k8s.io/yaml v1.3.0
@@ -166,7 +166,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
-	github.com/go-openapi/jsonreference v0.20.1 // indirect
+	github.com/go-openapi/jsonreference v0.20.2 // indirect
 	github.com/go-openapi/swag v0.22.3 // indirect
 	github.com/go-playground/locales v0.12.1 // indirect
 	github.com/go-playground/universal-translator v0.0.0-20170327191703-71201497bace // indirect
@@ -180,6 +180,7 @@ require (
 	github.com/google/cadvisor v0.47.2 // indirect
 	github.com/google/cel-go v0.12.7 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
+	github.com/google/gnostic-models v0.6.8 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20211214055906-6f57359322fd // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
