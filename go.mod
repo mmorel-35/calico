@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.39
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.11
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.117.0
-	github.com/aws/smithy-go v1.14.2
+	github.com/aws/smithy-go v1.20.0
 	github.com/buger/jsonparser v1.1.1
 	github.com/container-storage-interface/spec v1.8.0
 	github.com/containernetworking/cni v1.1.1
